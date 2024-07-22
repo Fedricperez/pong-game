@@ -1,0 +1,11 @@
+#canvas {
+    background-color: black;
+    display: block;
+    margin: auto;
+}
+
+#restart-btn {
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+}
